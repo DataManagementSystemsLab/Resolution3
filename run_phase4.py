@@ -1,4 +1,6 @@
-f_file = open("res.json", "r")
+import json
+
+f_file = open("resolution.json", "r")
 res = json.load(f_file)
 
 
@@ -9,7 +11,7 @@ files = json.load(f_file)
 def sort_items(items):
     return sorted(items, key=lambda x: [s for s in x])
 
-
+ar=[]
 d={}
 for r in res:
 	v=res[r]
@@ -17,10 +19,19 @@ for r in res:
 	ht["parent"]=v["parent"]
 	ht["txt"]=v["txt"]
 	try:
-		ht["url"]=files[v["key"]]["selfLink"]
+		val=v["key"]
+		if val in files.keys():
+			ht["url"]=files[val]["selfLink"]
+		else:
+			val=val.split('.')
+			val=val[0]
+			ht["url"]=files[val]["selfLink"]
 	except:
-		ht["url"]=""	
+		ht["url"]=""
+		ar.append(v["key"])
 	d[v["key"]]=ht
+
+
 
 a_file = open("d.json", "w")
 json.dump(d, a_file)
