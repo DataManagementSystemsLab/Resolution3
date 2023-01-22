@@ -18,16 +18,16 @@ resfiles,failed,empty=c.get_resolutions(files, dir)
 
 
 # Convert the data to a JSON string
-json_data = json.dumps(resfiles)
+#json_data = json.dumps(resfiles)
 
 # Save the JSON string to a file
-with open('resfiles.json', 'w') as f:
-  f.write(json_data)
+#with open('resfiles.json', 'w') as f:
+#  f.write(json_data)
 
 json_data = json.dumps(failed)
 
 # Save the JSON string to a file
-with open('failed.json', 'w') as f:
+with open('failed_ph2.json', 'w') as f:
   f.write(json_data)  
 
 json_data = json.dumps(empty)
