@@ -9,8 +9,8 @@ files = json.load(f_file)
 pdfs=c.get_pdfs(files)
 docs=c.get_docs(files)
 folders=c.get_folders(files)
-others=c.get_others(files)
-dir="/Users/User/Desktop/resolution3/files/"
+#others=c.get_others(files)
+dir="files/"
 resfiles,failed,empty=c.get_resolutions(files, dir)
 
 #resfiles,failed=c.get_resolutions2(files)

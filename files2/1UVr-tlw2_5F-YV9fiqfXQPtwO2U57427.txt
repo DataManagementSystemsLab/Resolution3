@@ -1,0 +1,21 @@
+Description of files
+
+1.  CourseList.xlsx
+
+In this file there is a list of all the courses in the 2016-2018 Catalog and the semester that that course last ran since 1994 up to the Spring 2017 semester.  If there is no semester listed then the course has not run since 1994.
+
+
+2.  CourseAttendance.xlsx
+
+In this file we have every course listed that ran from 1994 till Spring 2017.  The columns list the number of sections and the sum of the number of students in all sections at the census date per course and semester.
+
+
+
+
+The files were prepared by Kuldeep Pupala and the CAP committee.  There were several iterations with errors found.  Some were due to the catalog in Cognos (the computer based database that Kuldeep Pupala could access) being different from the printed Catalog.  After Kuldeep left the CAP committee by hand produced a data file from the currrent printed Catalaog to correct those errors.  And then they performed the query correctly.
+
+
+
+
+
+

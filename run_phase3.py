@@ -21,11 +21,11 @@ def get_text(filename):
         return None
 
 
-def get_files(dir='/home/ubuntu/Resolution2/'):
+def get_files(dir='./'):
     # dir="/Users/User/Desktop/resolution2/"
     files = []
 
-    for n in ["files", "files1", "files2", "files_"]:
+    for n in ["files2"]:
         files.extend(list_files(dir+n))
 
     return files
@@ -76,6 +76,6 @@ def run():
     fs = init()
     c = process(fs, files)
     r = get_res(c)
-    contents_file = open("resolution_"+f+".json", "w")
+    contents_file = open("resolution.json", "w")
     json.dump(r, contents_file)
     return c, r
