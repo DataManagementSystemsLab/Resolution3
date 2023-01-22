@@ -10,8 +10,8 @@ pdfs=c.get_pdfs(files)
 docs=c.get_docs(files)
 folders=c.get_folders(files)
 others=c.get_others(files)
-
-resfiles,failed,empty=c.get_resolutions2(files, "/home/ubuntu/Resolution2/files/")
+dir="/Users/User/Desktop/resolution3/files/"
+resfiles,failed,empty=c.get_resolutions(files, dir)
 
 #resfiles,failed=c.get_resolutions2(files)
 #txts=c.get_content_files(files)

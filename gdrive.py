@@ -2,6 +2,7 @@ from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
 from queue import SimpleQueue
 import common as c
+import os
 
 
 def getList(drive, folderid):
@@ -11,10 +12,15 @@ def getList(drive, folderid):
 	fileList = drive.ListFile(obj).GetList()
 	return fileList
 
+
+
+
+
+
 def bfs(drive, root):
 	q=SimpleQueue()
 	q.put(root)
-
+	files={}
 	while not q.empty():
 		id=q.get()
 		lst=getList(drive,id)
@@ -22,16 +28,25 @@ def bfs(drive, root):
 			files[x['id']]=x
 			if c.isFolder(x):
 				q.put(x['id'])
-
+	return files
 
 def download_file(f,dir):
 	id=f['id']
 	ext=c.get_ext(f["mimeType"])
-	filename=dir+"/"+id+ext
-	f.GetContentFile(filename)
+	try:
+		if ext==".gdoc":
+			filename=dir+"/"+id+ext+".txt"
+			f.GetContentFile(filename,mimetype="text/plain")
+		else:
+			filename=dir+"/"+id+ext
+			f.GetContentFile(filename)
+	except:
+		print(" could not download "+str(id))
+		c.failed.append(id)
 
-## could not download all files
-def download(lst, start=0, len=100):
+
+def download(files,lst, start=0, len=100):
+	print( "Download start:"+str(start))
 	for id in lst[start: start+len]:
 		path="tmp/"+str((int)(start/100))
 		isExist = os.path.exists(path)

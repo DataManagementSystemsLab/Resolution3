@@ -1,0 +1,141 @@
+﻿Syllabus for [Course Title]
+[Credits]
+[Course Department and Number] 
+[Semester]
+Instructor: [Include Name and Title (Aligns with OSCQR standard 1.10)]
+Instructor Phone:
+Instructor Email: 
+Office Hours:
+Course Format: Online (Aligns with OSCQR standard 1.7)
+Meeting Times/Location: [For online courses, any synchronous times must be listed before the beginning of the course (Aligns with OSCQR standard 6.48)] 
+Semester Start Date:
+Semester End Date:
+Course Description
+[You may want to list your full course description or academic bulletin course description. If you are writing this independently, then be sure to express your interest and enthusiasm in the course. Remove this text and add your own here. (Aligns with OSCQR standard 1.2)]
+Student Learning Objectives
+[List the key objectives students will reach at the end of the course. Perhaps here you will include the goals of the course or what essential questions students will be able to answer at the completion of the course. If your course has approved outcomes and competencies from your department or accrediting body, or general education requirements, please include those. Course objectives/outcomes are clearly defined, observable, and aligned with learning activities and assessments. Remove this text and add your own here. (Aligns with OSCQR standard 1.9)]
+Co/Prerequisites
+[May not apply depending on department requirements. Remove this text and add your own here.]
+Course Required Materials
+[Include all required texts here. Include ISBN numbers for any books included as well. Try to include Open Educational Resources that are accessible and openly licensed text. Open Educational Resources are often low cost or no cost. Remove this text and add your own here. (Aligns with OSCQR standards 1.8, 4.32)]
+Technology Requirements
+[Include all technology requirements, including if the course can or cannot be fully accessed with mobile devices or Chromebooks. Include links to all technology tools and software used in the course as well as links to their privacy policies. Be sure that tools meet accessibility standards. Be sure to include information on how students can get technical support for the specific tools used in your course, as well as campus helpdesk information below. Remove this text and add your own here. (Aligns with OSCQR standards 1.8, 2.11, 2.14, 2.15)] 
+Campus Tech Support Phone: [Tech helpdesk phone (Aligns with OSCQR standard 1.6)]
+Campus Tech Support Website: [Campus tech helpdesk website link (Aligns with OSCQR standard 1.6)
+Learning Activities and Assessments
+[Include learning activities here, such as reflections, discussions, projects, etc. Below are some common and suggested learning activities, but you will modify this depending on your course requirements. Remove this text and add your own here. (Aligns with OSCQR standard 4.29, 4.30, 4.31)]
+Learning Activities
+* Discussions    
+Discussions are important to include learner-to-learner interaction, which is required for a course to be considered a distance learning course instead of a correspondence course. Students will also feel a sense of community in the course with their cohort, and will be able to interact with each other to collaborate and share ideas about the topics they are learning. Opportunities for student to student interaction should be included when possible given the absence of “traditional” face to face interaction students may be used to in the classroom. It is important to pace discussions to ensure turn-taking within the conversation. For example, students will participate in online discussions by creating original posts with at least one citation and three responses to other student posts. Remove this text and add your own here. (Aligns with OSCQR standard 5.41, 5.42, 5.43)
+* Journals
+Journal entries are important for student self-reflection, which encourages deeper learning. Writing is a form of thinking and students writing about their experiences in learning helps them understand how to synthesize information more effectively in the future. It also provides a way for students to take risks and question their thinking. Remove this text and add your own here. (Aligns with OSCQR standard 5.47)
+* Assignments/Projects
+Assignments and projects that students can complete in their own time while referencing course materials are important for measuring learning. Students should be able to synthesize their readings, lectures, and other course content, and create a product that demonstrates their level of mastery with the material. Remove this text and add your own here. (Aligns with OSCQR standard 5.45)
+* Readings/Lectures    
+Student-Content interaction is important for online courses so students are able to understand information and actively learn on their own. This is the source of the information they might be talking about in their discussions, utilizing in assignments, and being measured on in assessments. Remove this text and add your own here.
+* Quizzes/Tests/Assessments    
+Assessing work is important to understand the progress students are making and if they are learning the material. Quizzes/Tests/Assessments measure student learning and can inform future teaching. Quizzes/Tests/Assessments can also be used as formative assessments (i.e. self-checks). Remove this text and add your own here. (Aligns with OSCQR standard 5.45)
+* Learning Activity (Template for Copy and Paste)   
+Copy and paste this as needed. It is important to copy the titlealong with this text, and then change it according to yourlearning activity learning activity. This keeps built-in accessibility framework in place. Remove this text and add your own here.         
+Evaluation and Grading Scale
+[Below is a sample grading scale. Change the grading scale below according to your college/department policy. List grade breakdown and weighting here. Do not post late-work policy, that section is below. Remove this text and add your own here. (Aligns with OSCQR standards 5.39, 6.44)
+* Grading Weights:
+Learning Activities
+	Percent of Grade
+	Discussions
+	XX%
+	Journals
+	XX%
+	Quizzes
+	XX%
+	Assignments
+	XX%
+	Final
+	XX%
+	TOTAL
+	100%
+	[Remove this text. You will need to adjust the above based on course/department/campus policies]
+* Grading Scale: 
+Letter Grade
+	Percent Grade
+	A
+	XX%-XX%
+	A-
+	XX%-XX%
+	B+
+	XX%-XX%
+	B
+	XX%-XX%
+	B-
+	XX%-XX%
+	C+
+	XX%-XX%
+	C
+	XX%-XX%
+	C-
+	XX%-XX%
+	D
+	XX%-XX%
+	D-
+	XX%-XX%
+	E
+	XX%-XX%
+	F
+	<XX
+	[Remove this text. You will need to adjust the above based on course/department/campus policies]
+Course Schedule
+[Having a schedule is important so students know the pacing of the course and what to expect so they can plan accordingly. Include information about each module in the course and overall information here, for example start and end dates of the module. Modules should have names, not just “Module 1, Module 2…” Include dates. See example below. Add all activities, due dates, readings, and other deliverables with due dates. Remove this text and add your own here. (Aligns with OSCQR standard 1.2)]
+The following is a sample followed by a template. Please copy, modify and adapt the template according to your needs. To change the text in the template, add text by copying and pasting, or remove text by deleting. Please copy and paste the template to create your modules in order to retain built in accessibility standards, then change the text. Remove this text.
+* Module 1: What is a Computer? (9/10-9/20)     
+This is sample text. Remove this text and add your own here. 
+Students will learn about the four basic functions of a computer, be able to identify mechanical and electrical computers, and be able to identify the basic hardware components of modern computers, including mobile and wearable tech. We will also cover a brief history of computer science. 
+* Assignment 1 due 9/13
+* Discussions due 9/15
+* Two discussion responses due 9/19
+
+   * Module X: Topic (Dates)     
+This is example text. Remove this text and add your own here. Copy and paste this as needed. It is important to copy the title (where it says “Module X” above) along with this text, and then change it according to your module. This keeps built-in accessibility framework in place. 
+   * Assignment due (date)
+   * Discussion due (date)
+   * Discussion responses due (date)
+   * Add/remove items as needed
+Course Policies
+Late Work/Make-up Policy
+[Include policy on late work and make-up work here. Remove this text and add your own here. (Aligns with OSCQR standard 6.44)]
+Participation Expectations
+[Include specific criteria if you are grading on participation. Include specific discussion board expectations if applicable. Include communication expectations here, including your response times to communications and grading turnaround time. Remove this text and add your own here. (Aligns with OSCQR standards 5.38, 1.8, 5.39)]
+Online Attendance Policy
+[Include link to campus policy for online attendance if there is one. Include expectations for logging in, checking email and notifications, etc. Include policy on missing synchronous sessions if necessary. Remove this text and add your own here.]
+Class Conduct and Netiquette
+[Include campus netiquette link if available. Include your own class conduct and netiquette statement as well if applicable. Remove this text and add your own here. (Aligns with OSCQR standard 5.39)]
+Additional Course Policies and Procedures
+[Put your course specific policies and procedures not covered in other parts of this syllabus. Remove this section if not applicable. Make sure you adapt the title as well to fit your course-specific needs. Remove this text and add your own here. (Aligns with OSCQR standard 1.5)]
+School Wide Policies
+Academic Bulletin
+[Link to Campus Academic Bulletin. Remove this text and add your own here.]
+Withdrawal and Drop Date Policy
+[Withdrawal and Drop Date campus policy link. Include specific class information if applicable. Remove this text and add your own here.]
+Academic Integrity and Plagiarism
+[Include link to campus integrity and plagiarism statement. Add your policy as well. Remove this text and add your own here. (Aligns with OSCQR standards 1.5, 6.44)]
+Copyright Policy
+[Include campus and class Copyright Policy text and link. Remove this text and add your own here.]
+Procedures for Resolving Academic Grievances
+[Include campus Academic Grievance Policy link. Remove this text and add your own here. (Aligns with OSCQR standard 1.5)]
+Reasonable Accommodations
+[Campus Reasonable Accommodation Statement and link. Include ADA/504 compliance statement and link as well as campus Disability Center contact info. Remove this text and add your own here.  (Aligns with OSCQR standard 1.5)]
+Additional Campus Policies
+[Include additional relevant Campus Policies here. Remove this text and add your own here. (Aligns with OSCQR standard 1.5)]
+
+
+Resources
+Department and Program Info
+Department Phone Number: (Aligns with OSCQR standard 1.10)
+Department Email Address: (Aligns with OSCQR standard 1.10)
+Program Phone Number: (Aligns with OSCQR standard 1.10)
+Program Email Address: (Aligns with OSCQR standard 1.10)
+Other Resources
+[Disability Resource Center link. Replace text with a descriptive link. (Aligns with OSCQR standard 1.5)]
+[The Writing Center link. Replace text with a descriptive link. (Aligns with OSCQR standard 1.6)]
+[Library Resources link. Replace text with a descriptive link. (Aligns with OSCQR standard 1.6)]
+[Counseling Center link. Replace text with a descriptive link. (Aligns with OSCQR standard 1.6)]
+[Office of Diversity and Inclusion link. Replace text with a descriptive link.]
