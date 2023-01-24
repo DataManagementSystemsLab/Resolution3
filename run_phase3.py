@@ -76,6 +76,6 @@ def run():
     fs = init()
     c = process(fs, files)
     r = get_res(c)
-    contents_file = open("resolution_"+f+".json", "w")
+    contents_file = open("resolution.json", "w")
     json.dump(r, contents_file)
     return c, r

@@ -9,7 +9,7 @@ files = json.load(f_file)
 pdfs=c.get_pdfs(files)
 docs=c.get_docs(files)
 folders=c.get_folders(files)
-others=c.get_others(files)
+#others=c.get_others(files)
 dir="/Users/User/Desktop/resolution3/files/"
 resfiles,failed,empty=c.get_resolutions(files, dir)
 
@@ -27,7 +27,7 @@ resfiles,failed,empty=c.get_resolutions(files, dir)
 json_data = json.dumps(failed)
 
 # Save the JSON string to a file
-with open('failed_ph2.json', 'w') as f:
+with open('failed_p2.json', 'w') as f:
   f.write(json_data)  
 
 json_data = json.dumps(empty)

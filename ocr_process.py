@@ -5,7 +5,7 @@ import ocrmypdf
 import common as c
 
 
-def ocr(input, output, ocring):
+def ocr2(input, output, ocring):
     if (ocring):
             try:
                 print("OCR "+ input)
@@ -43,7 +43,7 @@ def ocr(json_file):
                         f,txt=ocr(src_path,dst_path,False)
                         txtfilename="txts/"+base+".txt"
                         if f==False:
-                            f,txt=ocr(src_path,dst_path,True)
+                            f,txt=ocr2(src_path,dst_path,True)
                             if f:
                                 with open(txtfilename, 'w') as tmpf:
                                     tmpf.write(txt)
